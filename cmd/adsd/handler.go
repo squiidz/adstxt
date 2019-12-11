@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strings"
 
-	"local/adstxt/pkg"
+	"github.com/squiidz/adstxt/pkg"
 
 	"github.com/go-zoo/bone"
 )

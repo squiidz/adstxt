@@ -1,4 +1,4 @@
-module local/adstxt
+module github.com/squiidz/adstxt
 
 go 1.13
 

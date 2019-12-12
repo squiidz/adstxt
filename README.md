@@ -26,15 +26,15 @@ you will receive a json response containing all the sellers for that website.
 	    "publisherName": "nytimes.com",
 	    "domain": "amazon-adsystem.com",
 	    "accountID": " 3030",
-	    "typeOfAccount": " DIRECT",
+	    "typeOfAccount": "DIRECT",
 	    "certAuthID": ""
 	  },
-      {
-        "publisherName": "nytimes.com",
-        "domain": "pubmatic.com",
-        "accountID": " 158573",
-        "typeOfAccount": " DIRECT",
-        "certAuthID": " 5d62403b186f2ace"
-      }]
+          {
+            "publisherName": "nytimes.com",
+            "domain": "pubmatic.com",
+            "accountID": " 158573",
+            "typeOfAccount": "DIRECT",
+            "certAuthID": " 5d62403b186f2ace"
+          }]
 }
 ```
